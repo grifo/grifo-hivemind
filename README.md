@@ -1,13 +1,12 @@
 # Hivemind
 
-	O termo tem forte ligação com o comportamento e conhecimento acumulado por abelhas em uma colmeia. Este projeto tem a intenção de registrar e tornar comum todas as práticas, ténicas e falhas da Grifo.
+O Hivemind é um projeto de padronização de tecnologias da Grifo. O termo tem forte ligação com o comportamento e conhecimento acumulado por abelhas em uma colmeia.
 
 
 
 ## Diagramação
 
 ### Grids
-
 
 
 
@@ -18,11 +17,9 @@ Resolução, pixel ratio e orientação
 
 
 
-
 ## Tipografia
 
 ### Webfonts (font-face)
-
 
 
 
@@ -44,7 +41,6 @@ Resolução, pixel ratio e orientação
 
 
 
-
 ## Comportamento
 
 ### Padrões de Projeto em JavaScript
@@ -53,7 +49,6 @@ Resolução, pixel ratio e orientação
 
 
   
-
 ## Browsers
 
 ### Lista
@@ -66,7 +61,6 @@ http://caniuse.com
 
 
 
-
 ## Bootstraps e Boilerplates
 
 ### Twitter Bootstrap
@@ -75,11 +69,9 @@ http://caniuse.com
 
 
 
-
 ## Geradores estáticos de websites
 
 ### Jekyll
-
 
 
 
